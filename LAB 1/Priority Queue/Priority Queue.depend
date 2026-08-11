@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1786429098 source:e:\solaire\priority queue\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
